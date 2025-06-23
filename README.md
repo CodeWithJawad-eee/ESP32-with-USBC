@@ -31,6 +31,9 @@ This repository includes:
 **Schematic**  
 ![Schematic](https://github.com/user-attachments/assets/7090fde4-77bb-4566-9036-3a40830d0a25)
 
+**PCB**  
+![PCB](https://github.com/user-attachments/assets/1f2788f9-2860-4f11-912c-12ae709926ad)
+
 **Top Layer**  
 ![Top Layer](https://github.com/user-attachments/assets/ec54b5b1-8688-4005-bed1-0bd6fb73ac70)
 
